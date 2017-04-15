@@ -10,4 +10,4 @@
 - 文本1
 - 文本2
 - 文本3
-[别璐莎大傻瓜］(http://scikit-learn.org/stable/modules/svm.html#svm-kernels)
+[别璐莎大傻瓜](http://scikit-learn.org/stable/modules/svm.html#svm-kernels)
