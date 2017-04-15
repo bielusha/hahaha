@@ -13,4 +13,5 @@
 - [别璐莎大傻瓜](http://scikit-learn.org/stable/modules/svm.html#svm-kernels)
 ## 链接和图片
 [知乎](https://www.zhihu.com/question/20070065)
+
 ![](https://msu.edu/~connel69/images/JPG.jpg)
