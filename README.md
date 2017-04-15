@@ -16,5 +16,4 @@
 
 ![](https://msu.edu/~connel69/images/JPG.jpg)
 > 朝辞白帝彩云间
-
 > 千里江陵一日还
